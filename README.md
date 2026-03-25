@@ -1,17 +1,17 @@
 ## Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
 * [Tools](#tools)
 * [Setup](#setup)
 * [Demo](#demo)
 
-## General info
-* This project is a video game blog where users can create accounts and make their own posts. 
-* This web app has all the functionalty of a real blog, including account updates, post edits, login features (additional features in progress).
+## General Info
+* This project is a video game blog where users can create accounts and make their own posts
+* This web app has all the functionalty of a real blog, including account updates, post edits, login features (additional features in progress)
 	
 ## Tools
-* The web app is created using the flask framework and python.
-* User information and posts are stored in a database file using SQLAlchemy.
-* SMTP handles handles sending/routing e-mail between mail servers.
+* The web app is created using the flask framework and python
+* User information and posts are stored in a database file using SQLAlchemy
+* SMTP handles handles sending/routing e-mail between mail servers
 
 	
 ## Setup
